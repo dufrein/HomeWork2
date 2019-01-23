@@ -1,0 +1,35 @@
+.tabProds {
+	border:1px solid black;
+	text-align: center;
+	width:70%;
+	margin:5px 25px;
+ }
+
+.buttonTableStyle {
+  	/*width:50px; */
+  	margin:0 20px;
+  	border: 1px solid black;
+  	/*padding:0 15px;*/
+}
+
+.buttonStyle {
+   	border: 1px solid black;
+  	padding:0 15px;
+  	text-decoration: none;
+}
+
+.buttonsBasket {
+	width:70%;
+	margin:5px 25px;
+}
+
+#mySearch {
+	margin:5px 25px;	
+}
+
+.buttonClearBasket {
+	border: 1px solid black;
+  	padding:0 15px;
+  	text-decoration: none;
+	float:right;
+}
