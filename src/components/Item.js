@@ -23,7 +23,6 @@ export default class Item extends React.Component {
 		this.props.updateData(newBaseData);
 	}
 	render () {
-		console.dir('nuu');
 		let item = this.props.itemData;
 		const buttonMinus = ( (parent)=> {
 			if (parent==="Basket") {
